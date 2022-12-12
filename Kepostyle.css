@@ -1,0 +1,171 @@
+.webLogo {
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+.search {
+    margin-top: 46px;
+    padding: 10px;
+    width: 80%;
+    border: 1px solid #551a8b;
+    border-radius: 15px;
+
+}
+
+.views {
+    height: 9%;
+    width: 9%;
+    float: left;
+}
+body {
+    background-color: white;
+}
+.container {
+    margin: 20px;
+    padding: 10px;
+}
+.header {
+    padding: 50px;
+    height: 40px;
+}
+.h1 {
+    font-size: larger;
+    color: black;
+}
+
+button.prdocut_btn {
+    height: inherit;
+    width: 177px
+}
+h2.title {
+    font-size: 15px;
+}
+.moreproductInfoText {
+    font-family: inherit;
+    font-size: 12px;
+}
+button.size_btn {
+    width: 101px;
+    height: 27px;
+}
+
+button.bag_btn {
+    WIDTH: -5px;
+    width: 207px;
+    background-color: green;
+    padding: 11px;
+}
+hr.h_line {
+    width: 210px;
+    display: inline-block;
+}
+
+div#MORE_INFO {
+    DISPLAY: flex;
+    justify-content: space-around;
+    font-size: 7px;
+    padding: 63px;
+    margin: 23px
+}
+p {
+    font-size: 13px;
+}
+.small_img{
+    width: 50px;
+    height: 70px;
+}
+.img1{
+    display: table-cell;
+    padding:35px;
+    display: inline-block;
+    border: 1px solid;
+}
+p.colordets {
+    font-size: 15px;
+}
+.fa-2x {
+    font-size: 2em;
+    float: right;
+}
+i.fa.fa-facebook.fa-2x {
+    padding: 45px;
+}
+i.fa.fa-instagram.fa-2x {
+    padding: 45px;
+}
+i.fa.fa-twitter.fa-2x {
+    padding: 45px;
+}
+img.view1 {
+    width: 1200px;
+}
+img.productpic {
+    width: 590px;
+}
+img {
+    width: 190px;
+}
+button{
+    background: whitesmoke;
+    width: 80px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.cart-page{
+    margin: 80px auto;
+}
+table{
+    width: 100%;
+    border-collapse:collapse ;
+}
+.cart-info{
+    display: flex;
+    flex-wrap: wrap;  
+}
+th{
+    text-align: left;
+    color: white;
+    padding: 5px;
+    background: #551a8b;
+    font-weight: normal;
+}
+td{
+    padding: 10px 5px;
+    font-weight: bold;
+}
+th.total {
+    text-align: inherit;
+}
+td input{
+    width: 40px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #551a8b;
+}
+td a{
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+}
+td img{
+    width: 80px;
+    height:80px;
+    margin-right: 10px;
+}
+.total-price{
+    display: flex;
+    justify-content: flex-end;
+   
+}
+.total-price table{
+    border-top: 3px solid #551a8b;
+    width: 100%;
+    max-width: 380px;
+}
+.productInfo {
+    
+    color: #551a8b;
+}
+
